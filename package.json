@@ -1,0 +1,20 @@
+{
+  "name": "my-mockend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3004"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjayaramegowda/my-mockend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjayaramegowda/my-mockend/issues"
+  },
+  "homepage": "https://github.com/rjayaramegowda/my-mockend#readme"
+}
